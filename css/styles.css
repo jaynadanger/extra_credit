@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif|Raleway');
+
+body{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1, h2{
+  font-family:"noto serif"
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  font-family:"Raleway";
+  margin: 10px;
+}
+
+a:hover{
+  color: white;
+  background-color: teal;
+  padding: 10px 20px;
+}
+
+
+
